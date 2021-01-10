@@ -8,4 +8,5 @@ public class son extends father {
         System.out.println(name);
         System.out.println(age);
     }
+    public son(){}
 }
