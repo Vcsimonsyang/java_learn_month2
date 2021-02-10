@@ -1,0 +1,13 @@
+Jack,sales001,23
+Pony,sales002,24
+Adam,sales003,33
+Brush,sales004,35
+Clark,sales005,40
+David,sales006,34
+Jane,Tech001,56
+Michael,Tech002,51
+Nick,Tech003,37
+Tom,Tech004,39
+Jerry,HR001,20
+Young,HR002,29
+Simons,HR003,49
