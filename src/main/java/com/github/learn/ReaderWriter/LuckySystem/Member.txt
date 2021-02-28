@@ -11,3 +11,4 @@ Tom,Tech004,39
 Jerry,HR001,20
 Young,HR002,29
 Simons,HR003,49
+lynn,HR005,40
